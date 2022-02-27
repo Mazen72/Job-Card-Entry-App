@@ -9,3 +9,4 @@ Job Card Entry web app with real time database monitoring and updating
 
 ![alt text](https://github.com/Mazen72/Job-Card-Entry-App/blob/main/database.JPG?raw=true)
 
+  
